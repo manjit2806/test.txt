@@ -1,0 +1,6 @@
+log analyzer is an open source tool used to analyze daemon processes
+and can also be used to get alerts on email for any critical issues or any malicioous activitise
+user friendly
+easy to use 
+secured
+can be used to generate reports
